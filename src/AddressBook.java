@@ -1,3 +1,4 @@
+//Yasmina Younes
 import java.util.*;
 public class AddressBook {
     private ArrayList<BuddyInfo> BuddyList; //Array list of buddyInfo Objects
@@ -19,3 +20,5 @@ public class AddressBook {
         addressBook.removeBuddy(buddy);
     }
 }
+
+
