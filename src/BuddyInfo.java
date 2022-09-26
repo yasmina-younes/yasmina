@@ -15,6 +15,9 @@ public class BuddyInfo { //Class BuddyInfo
     public String getName() { //method
         return name;
     }
+    public String getPhone(){ //
+        return phone;
+    }
     public void setName(String name) { //method
         this.name = name;
     }
